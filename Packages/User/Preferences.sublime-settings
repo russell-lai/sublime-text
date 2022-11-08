@@ -3,6 +3,7 @@
 	"ignored_packages":
 	[
 		"LaTeXing",
+		"Markdown",
 		"Vintage",
 	],
 	"theme": "ayu-mirage.sublime-theme",

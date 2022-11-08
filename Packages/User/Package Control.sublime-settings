@@ -6,7 +6,9 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"AlignTab",
 		"ayu",
+		"FileDiffs",
 		"Find++",
 		"Fold Comments",
 		"HyperClick",
@@ -15,6 +17,7 @@
 		"LaTeXTab",
 		"LaTeXTools",
 		"LaTeXYZ",
+		"MarkdownEditing",
 		"Non Text Files",
 		"Package Control",
 		"PackagesUI",
