@@ -1,0 +1,11 @@
+[
+    {   "keys": ["f1"], 
+        "context":  [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex"}],
+        "command": "jump_to_pdf", "args": {"from_keybinding": true}},
+    {   "keys": ["f5"],
+        "context": [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex"},
+            {"key": "latextools.st_version", "operator": "equal", "operand": "<3080"}],
+        "command": "latextools_build_selector"},
+]

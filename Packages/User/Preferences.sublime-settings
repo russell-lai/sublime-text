@@ -1,0 +1,50 @@
+{
+	"font_size": 18,
+	"ignored_packages":
+	[
+		"LaTeXing",
+		"Vintage",
+	],
+	"theme": "ayu-mirage.sublime-theme",
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".",
+			"selector": "source.python - string - comment - constant.numeric",
+		},
+		{
+			"characters": "<",
+			"selector": "text.html, text.xml",
+		},
+		{
+			"rhs_empty": true,
+			"selector": "punctuation.accessor",
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex",
+		}
+	],
+	"color_scheme": "Packages/ayu/ayu-mirage.sublime-color-scheme",
+	"open_externally_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.zip",
+		"*.pdf"
+	],
+	"rulers":
+	[
+		100
+	],
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	
+	// Set to true to turn spell checking on by default
+	"spell_check": true,
+
+	// Word list to use for spell checking. May also be a list of dictionaries.
+	"dictionary": "Packages/Language - English/en_GB.dic",
+}

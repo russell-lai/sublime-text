@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"ayu",
+		"Find++",
+		"Fold Comments",
+		"HyperClick",
+		"LaTeX-cwl",
+		"LaTeXing",
+		"LaTeXTab",
+		"LaTeXTools",
+		"LaTeXYZ",
+		"Non Text Files",
+		"Package Control",
+		"PackagesUI",
+		"SideBarEnhancements",
+	],
+}
