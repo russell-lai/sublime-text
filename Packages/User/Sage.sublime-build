@@ -1,0 +1,5 @@
+{
+    "cmd": ["sage", "$file"],
+    "selector": "source.py",
+    "file_regex": "^\\s*File \"(...*?)\", line ([0-9]*)"
+}

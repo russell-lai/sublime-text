@@ -21,6 +21,8 @@
 		"Non Text Files",
 		"Package Control",
 		"PackagesUI",
+		"ProjectManager",
 		"SideBarEnhancements",
+		"SublimeREPL",
 	],
 }
