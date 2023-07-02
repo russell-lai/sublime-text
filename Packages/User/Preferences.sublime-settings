@@ -3,7 +3,6 @@
 	"ignored_packages":
 	[
 		"LaTeXing",
-		"Markdown",
 		"Vintage",
 	],
 	"theme": "ayu-mirage.sublime-theme",
@@ -57,6 +56,8 @@
 		"cyclotomic",
 		"sublinear",
 		"standalone",
+		"formedness",
+		"pseudorandomness",
 	],
 	"close_windows_when_empty": false,
 }

@@ -241,13 +241,13 @@
     },
 
     // Auto pair \{\} when selection in math mode
-    { "keys": ["{"], "command": "insert_snippet", "args": {"contents": "\\\\{${0:$SELECTION}\\\\}"}, "context":
-        [
-             { "key": "selector", "operator": "equal", "operand": "text.tex.latex meta.environment.math" },
-             { "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
-             { "key": "selection_empty", "operator": "equal", "operand": false, "match_all": true }
-        ]
-    },
+    // { "keys": ["{"], "command": "insert_snippet", "args": {"contents": "\\\\{${0:$SELECTION}\\\\}"}, "context":
+    //     [
+    //          { "key": "selector", "operator": "equal", "operand": "text.tex.latex meta.environment.math" },
+    //          { "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
+    //          { "key": "selection_empty", "operator": "equal", "operand": false, "match_all": true }
+    //     ]
+    // },
 
      // Auto-pair brackets \|
      { "keys": ["\\", "|"], "command": "latexyz_insert_snippet", "args": {"contents": "\\\\|$0\\\\|", "create_fields": true}, "context":
