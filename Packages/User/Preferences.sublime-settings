@@ -58,6 +58,7 @@
 		"standalone",
 		"formedness",
 		"pseudorandomness",
+		"relativised",
 	],
 	"close_windows_when_empty": false,
 }
